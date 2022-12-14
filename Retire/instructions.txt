@@ -1,0 +1,23 @@
+Introduction:
+Investing one’s retirement money is one of the most important of life’s decisions. It can determine the quality of one’s life for their last 10-40 years. Many people shy away from stocks because of their volatility. However by utilizing an ETF fund of the S&P 500, one can mitigate volatility and because of low expense ratios beat 90% of the managed funds over the long run. For example, Vanguard’s S&P 500 ETF  offers investors an efficient way to get diversified exposure to U.S. large-cap stocks. It has the lowest expense ratio of any exchange-traded fund tracking the S&P 500 and is the only one that is a separate share class of a mutual fund.
+
+Purpose:
+The purpose of this app is to give you a sense of the risk associated with investing in the S&P 500. You have the ability to ask “what if” questions with regard to life span, percentage of portfolio held as cash, required yearly living expenses, and effective tax rates on those expenditures.
+
+Methodology:
+Mathematical simulations are performed based on a retirement that begins yearly starting with 1910 (for reasons of available data) to the current time period. The results of this analysis are displayed as a histogram showing the probability of expected returns. So for example, if you started your retirement  at the bottom of the great recession in 1930s, you would have great returns. If on the other hand, you started at the the height of the internet bubble in 1999, your results be be much less favorable. The key assumption of this analysis is that your retirement will most likely experience a range of outcomes similar to a period representing the last 100 years of American Industrialized  development.
+
+How to use the app:
+Click the plus sign and enter the following data:
+1. A profile name for your simulation
+2. The assets available for your portfolio 
+3. The percentage of your portfolio kept in “money market” funds
+4. Your annual draw for expenses
+5. Your estimated life span forward
+6. Your estimated effective tax rate on your draw
+
+After you save your data:
+You will then be presented with a  summary showing the parameters of your resulting estate and the probability of not running out of money. The graph provides you with a histogram displaying these probabilities in detail. The stepper controls above the graph give you the ability to ask the “what if” questions by varying the values of cash percentage, years remaining, and yearly expenditures.
+
+Creating a historic simulation:
+It can often be helpful to simulate a retirement in a past time period and observe the specific result given your input parameters. For example, what would be the value my estate if I retired in 1963? Keep in mind all data is represented in today's dollars.
